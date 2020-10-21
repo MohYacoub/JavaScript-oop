@@ -5,5 +5,10 @@
                 this.Email = Email;
                 this.mobile_number = Number(mobile_number);
             }
+            name(){
 
+            }
+            mobile(){
+                
+            }
         }

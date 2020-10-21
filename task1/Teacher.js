@@ -5,4 +5,6 @@
                 this.Salary = Number(Salary);
                 this.Subjects = Subjects.split(',') ;
                 }
-                          }
+                
+
+                }                          }
